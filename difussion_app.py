@@ -10,7 +10,7 @@ Original file is located at
 
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
+
 
 # Configuración de la página
 st.set_page_config(page_title="Simulación de Difusión", layout="centered")
